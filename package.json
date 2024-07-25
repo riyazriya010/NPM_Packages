@@ -1,0 +1,20 @@
+{
+  "name": "greet_your_user",
+  "version": "1.0.0",
+  "description": "Greeting the user",
+  "main": "greet-user.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyazriya010/NPM_Packages.git#main"
+  },
+  "author": "Riyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riyazriya010/NPM_Packages/issues"
+  },
+  "homepage": "https://github.com/riyazriya010/NPM_Packages/tree/main#readme"
+}
